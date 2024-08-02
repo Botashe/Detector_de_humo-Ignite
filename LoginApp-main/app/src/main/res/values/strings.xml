@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ignite Alarm</string>
+    <string name="login">IGNITE ENT.</string>
+    <string name="enter_email">Ingresar Correo</string>
+    <string name="enter_password">Ingresar Contraseña</string>
+    <string name="enter_user">Ingresar Nombre</string>
+    <string name="submit">Iniciar Sesion</string>
+    <string name="create">Crear Usuario</string>
+    <string name="back_login">Volver al Inicio</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="network_error_message">error D:</string>
+</resources>
